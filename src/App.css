@@ -1,0 +1,19 @@
+*{
+  padding:0%;
+  margin:0%;
+  box-sizing: border-box;
+}
+.light{
+  background-color: #f8f6f9;
+  color:#363636;
+}
+.dark{
+  color: #F8F6F9;
+  background-color:#363636;
+}
+h1{
+  margin:0px !important;
+}
+.colored,.icon{
+  color:#FF0013
+}

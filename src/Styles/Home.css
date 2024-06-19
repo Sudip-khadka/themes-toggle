@@ -1,0 +1,45 @@
+.home{
+    height:90vh;
+    width:100%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+padding: 50px;
+position: relative;
+}
+.home .text{
+    width:50%;
+    display: flex;
+    flex-direction: column;
+    gap:8px;
+}
+.text h1{
+    font-size:64px;
+}
+.text p{
+    font-family: Lexend;
+font-size: 16px;
+font-weight: 500;
+line-height: 32px;
+text-align: left;
+
+}
+.text button{
+    margin-top:18px;
+     background: #FF0013;
+     width: 245px;
+     height: 64px;
+     padding: 22px 88px 22px 88px;
+     border-radius: 16px;
+     border:none;
+     color:white;
+}
+.home .image{
+    width:55%;
+    position:absolute;
+    top:0%;
+    left:40%;
+}
+.image img{
+    width:95%;
+}
